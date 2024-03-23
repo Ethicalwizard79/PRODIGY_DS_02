@@ -12,10 +12,6 @@ This project explores the well-known Titanic passenger dataset, focusing on data
 
 Data cleaning techniques were applied to address missing values and inconsistencies. Exploratory data analysis was then conducted to uncover insights about passenger demographics and their impact on survival rates. 
 
-**Key Findings:**
-
-* (Replace this with 2-3 key findings from your EDA, like correlation between passenger class and survival)
-
 **Data Visualization:**
 
 While the detailed visualizations are not included here, you can find them on my LinkedIn feed: [Your LinkedIn Profile URL] (replace with your actual URL)
